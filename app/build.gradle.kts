@@ -26,7 +26,7 @@ android {
 
     defaultConfig {
         applicationId = "com.hwb.aianswerer"
-        minSdk = 30
+        minSdk = 29
         targetSdk = 34
         versionCode = 4
         versionName = "0.0.4"
